@@ -1,0 +1,23 @@
+p {
+    text-align: center;
+    color: blue;
+}
+.css-div {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+.red-text {
+    color: red;
+}
+.blue-text {
+    color: blue;
+}
+.css-heading {
+    color: green;
+    text-align: center;
+}

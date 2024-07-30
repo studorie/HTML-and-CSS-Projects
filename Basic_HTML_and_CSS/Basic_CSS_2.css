@@ -1,0 +1,7 @@
+p.custom-paragraph {
+    color: white;
+    background-color: darkslategray;
+    font-size: 18px;
+    text-align: justify;
+    text-shadow: 2px 2px 5px black;
+}
