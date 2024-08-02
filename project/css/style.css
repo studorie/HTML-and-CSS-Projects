@@ -44,7 +44,6 @@ nav ul a {
     text-transform: uppercase;
 }
 
-/* Hover effect for navigation links */
 nav ul li a:hover {
     color: #FFD700;
     background-color: #444;
@@ -142,7 +141,6 @@ section {
     cursor: pointer;
 }
 
-/* Improved Contact Us form styles */
 form {
     display: flex;
     flex-wrap: wrap;
